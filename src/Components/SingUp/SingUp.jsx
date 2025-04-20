@@ -24,7 +24,7 @@ const SingUp = () => {
             console.log(user)
 
             //server side
-            fetch('http://localhost:5173//user',{
+            fetch('http://localhost:5000/user',{
 
             method: "POST",
             headers: {

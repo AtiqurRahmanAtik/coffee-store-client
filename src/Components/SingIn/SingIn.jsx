@@ -29,6 +29,8 @@ const SingIn = () => {
 <div className=" flex-col lg:flex-row-reverse space-y-7 py-4">
   <div className="text-center lg:text-left ">
     <h1 className="text-5xl font-bold">Log In Now</h1>
+    
+    <h1 className="text-5xl font-bold">Log In Now</h1>
    
   </div>
 
